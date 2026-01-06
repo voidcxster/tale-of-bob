@@ -1,0 +1,13 @@
+# Ignore everything in the root directory
+/*
+
+# Don't ignore the .gitignore file itself (optional but recommended)
+!.gitignore
+
+# Don't ignore the specific folders and their contents
+!/Assets/
+!/Assets/**
+!/ProjectSettings/
+!/ProjectSettings/**
+!/Packages/
+!/Packages/**
